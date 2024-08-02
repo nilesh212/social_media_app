@@ -1,3 +1,3 @@
 Social Media App
 
-social_media_app is react based web application, where in users can share there thoughts and freely express thoughts to other user's thoughts. User can be increasing network by being friends.
+social_media_app is a react-based web application, where users can share their thoughts and freely express thoughts to other users. Users can increase their network by being friends.
